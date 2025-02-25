@@ -1,0 +1,10 @@
+Dominos-9.5-78000,margrita-200,farmhouse-400,paneerLoaded-350,chocolava-120
+Frulato-9.4-90000,chocolateMilkShake-100,BubbleGum-110,ChocoChips-80,MangoMilkShake-120
+BombayWala-8.9-40000,Samosa-35,Kachori-35,DahiWada-60,KajuKatli-800
+HaldiRams-9.6-120000,Softy-13,Dosa-150,CholaBhatura-150,RajKachori-120,OrangeBurfi-500
+DelhiGrills-9.75-50000,PaneerbutterMasala-350,ButterChicken-600,TandooriNaan-75
+LittleItaly-9.3-20399,CornedJuice-100,MangoSmoothie-150,CottageBurger-200
+Hibiscus-9.67-50102,RoastedRoot-160,Tofu-250,CheeseSandwich-210
+CarNations-9.2-40100,PaneerTicka-320,VegBanjara-460,VegKoftaCurry-650
+SkyTouch-9.1-36000,SproutBeanSalad-90,PaneerMakhni-550,NavratanKorma-660
+Zinq-9.4-25000,Chillirolls-250,CholaRice-450,PaneerLajawab-480
