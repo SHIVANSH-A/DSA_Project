@@ -6,5 +6,5 @@ DelhiGrills-9.75-50000,PaneerbutterMasala-350,ButterChicken-600,TandooriNaan-75
 LittleItaly-9.3-20399,CornedJuice-100,MangoSmoothie-150,CottageBurger-200
 Hibiscus-9.67-50102,RoastedRoot-160,Tofu-250,CheeseSandwich-210
 CarNations-9.2-40100,PaneerTicka-320,VegBanjara-460,VegKoftaCurry-650
-SkyTouch-9.1-36000,SproutBeanSalad-90,PaneerMakhni-550,NavratanKorma-660
+HotelH-9.9-56000,SproutBeanSalad-90,PaneerMakhni-550,NavratanKorma-560
 Zinq-9.4-25000,Chillirolls-250,CholaRice-450,PaneerLajawab-480
